@@ -1,0 +1,6 @@
+[user]
+	signingkey = 8BF5CDEB023A83B5
+	name = André Krüger
+	email = 222393+andre-krueger@users.noreply.github.com
+[commit]
+	gpgsign = true

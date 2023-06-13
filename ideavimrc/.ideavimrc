@@ -1,0 +1,9 @@
+set commentary
+set number relativenumber
+let mapleader="\<Space>"
+nmap gb :action Back<cr>
+nmap gf :action Forward<cr>
+nmap <leader>fs :action SaveAll<cr>
+set clipboard+=unnamed
+set ignorecase
+set smartcase
